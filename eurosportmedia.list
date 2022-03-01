@@ -1,3 +1,4 @@
 # > Eurosport
 // 此条分流只是让 Eurosport 串流时走 其他 节点，需搭配 Eurosport 相关分流使用
 DOMAIN,europe-fastly-mediashield-live-prod.cdn.h264.io
+DOMAIN-SUFFIX,akamai.prod-live.h264.io
