@@ -22,6 +22,7 @@ IP-CIDR,62.149.6.21/32,no-resolve
 # > tv.team
 DOMAIN-SUFFIX,troya.tv
 DOMAIN-SUFFIX,tv.team
+IP-CIDR,129.151.109.148/32,no-resolve
 # > lightiptv
 DOMAIN-SUFFIX,pp.ru
 # > stalker（siggiztv、supiptv、overboxtv、maltaip、venomf）（可能不全）
