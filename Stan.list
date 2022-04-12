@@ -1,3 +1,4 @@
-domain,stan.com.au
-domain,stan.video
+DOMAIN,stan.com.au
+DOMAIN,stan.video
 regexp,.*stan\\.akamaized\\.net$
+DOMAIN-KEYWORD,stan,Proxy
