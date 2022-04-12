@@ -1,0 +1,3 @@
+domain,stan.com.au
+domain.stan.video
+regexp,.*stan\\.akamaized\\.net$
