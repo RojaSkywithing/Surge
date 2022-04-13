@@ -1,0 +1,3 @@
+# > YouTube
+// 此条分流只是让 YouTube 串流时走 其它 节点，需搭配 YouTube 相关分流使用
+DOMAIN-SUFFIX,googlevideo.com
