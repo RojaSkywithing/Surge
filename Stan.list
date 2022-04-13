@@ -1,4 +1,5 @@
-DOMAIN-KEYWORD,stan,Proxy
-DOMAIN,stan.com.au
-DOMAIN,stan.video
-regexp,.*stan\\.akamaized\\.net$
+# > Stan
+DOMAIN,streamcoimg-a.akamaihd.net
+DOMAIN-SUFFIX,stan.com.au
+DOMAIN-KEYWORD,stan
+DOMAIN-SUFFIX,tan.com.au
