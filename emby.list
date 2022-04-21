@@ -6,9 +6,6 @@ DOMAIN,jellyfin.xeton.dev
 DOMAIN,movie.xeton.dev
 DOMAIN,servers.xeton.dev
 DOMAIN,emby.riches.cloud
-DOMAIN,us.odysseyplus.site
-DOMAIN,sg.odysseyplus.site
-DOMAIN,jp.odysseyplus.site
-DOMAIN,jp.odysseyplus.site
+DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,misakaf.xyz
 IP-CIDR,198.204.247.154/32
