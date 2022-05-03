@@ -7,4 +7,5 @@ DOMAIN,movie.xeton.dev
 DOMAIN,servers.xeton.dev
 DOMAIN,emby.riches.cloud
 DOMAIN-SUFFIX,odysseyplus.site
+DOMAIN-SUFFIX,emby.wtf
 IP-CIDR,198.204.247.154/32
