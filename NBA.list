@@ -13,5 +13,5 @@ DOMAIN-SUFFIX,neulionqos-a.akamaihd.net
 DOMAIN-SUFFIX,neulion.com
 DOMAIN-SUFFIX,nbanlds19vod.akamaized.net
 // 此条分流可以串流走别的节点
-DOMAIN,neuclnbavodns.akamaized.net
+// DOMAIN,neuclnbavodns.akamaized.net
 DOMAIN,nba.cloud.easelive.tv
