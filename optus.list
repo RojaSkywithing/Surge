@@ -1,3 +1,4 @@
+# > Optus Sports
 DOMAIN-SUFFIX,optus.com.au
 DOMAIN-SUFFIX,optusdigital.com
 DOMAIN-SUFFIX,optusnet.com.au
@@ -5,4 +6,4 @@ DOMAIN-SUFFIX,optussport.tv
 DOMAIN-KEYWORD,csm-e-optus
 DOMAIN-KEYWORD,csm-e-ceoptaase
 DOMAIN-KEYWORD,drm-widevine-licensing.axprod.net
-DOMAIN-KEYWORD,optus
+# DOMAIN-KEYWORD,optus
