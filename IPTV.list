@@ -48,3 +48,10 @@ IP-CIDR,45.148.26.0/24,no-resolve
 IP-CIDR,45.150.197.0/24,no-resolve
 IP-CIDR,45.94.28.0/24,no-resolve
 IP-CIDR,85.203.17.0/24,no-resolve
+# > DMTN
+DOMAIN-SUFFIX,dmtn.tv
+IP-CIDR,217.74.0.0/12,no-resolve
+IP-CIDR,102.165.0.0/12,no-resolve
+IP-CIDR,45.153.0.0/12,no-resolve
+IP-CIDR,185.209.0.0/12,no-resolve
+IP-CIDR,45.148.0.0/12,no-resolve
