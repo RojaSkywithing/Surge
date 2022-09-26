@@ -17,5 +17,6 @@ DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-KEYWORD,avoddashs
+IP-CIDR,178.79.254.97/32,no-resolve
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
