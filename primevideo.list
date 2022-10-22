@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,amazon.co
+DOMAIN-SUFFIX,amazon.co.uk
 DOMAIN-KEYWORD,avoddashs
 IP-CIDR,178.79.254.0/24,no-resolve
 IP-CIDR,195.219.212.0/24,no-resolve
