@@ -1,23 +1,24 @@
-- DOMAIN-KEYWORD,9now,Au 
-- DOMAIN,nine.com.au,Au 
-- DOMAIN,9now.com.au,Au 
-- DOMAIN,p-9now.akamaized.net,Au 
-- DOMAIN,9now-livestreams.akamaized.net,Au 
-- DOMAIN,9now-livestreams-v2.akamaized.net,Au 
-- DOMAIN-SUFFIX,brightcove.com,Au 
-- DOMAIN-SUFFIX,app-measurement.com,Au 
-- DOMAIN-SUFFIX,9cdn.net,Au 
-- DOMAIN-SUFFIX,edge.api.brightcove.com,Au
-- DOMAIN-SUFFIX,9nation.com.au,Au 
-- DOMAIN-SUFFIX,9news.com.au,Au 
-- DOMAIN-SUFFIX,9now.com.au,Au 
-- DOMAIN-SUFFIX,freeviewplus.net.au,Au 
-- DOMAIN-SUFFIX,mi9.com.au,Au 
-- DOMAIN-SUFFIX,mi9cdn.com,Au 
-- DOMAIN-SUFFIX,nine.com.au,Au 
-- DOMAIN-SUFFIX,nineentertainment.com.au,Au 
-- DOMAIN-SUFFIX,nineentertainmentco.com.au,Au 
-- DOMAIN-SUFFIX,ninemediaroom.com.au,Au 
-- DOMAIN-SUFFIX,ninemsn.com.au,Au 
-- DOMAIN-SUFFIX,static9.net.au,Au 
-- DOMAIN-SUFFIX,yourtv.com.au,Au
+# > Stan
+DOMAIN-KEYWORD,9now
+DOMAIN,nine.com.au
+DOMAIN,9now.com.au
+DOMAIN,p-9now.akamaized.net
+DOMAIN,9now-livestreams.akamaized.net
+DOMAIN,9now-livestreams-v2.akamaized.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,9cdn.net
+DOMAIN-SUFFIX,edge.api.brightcove.com
+DOMAIN-SUFFIX,9nation.com.au
+DOMAIN-SUFFIX,9news.com.au
+DOMAIN-SUFFIX,9now.com.au
+DOMAIN-SUFFIX,freeviewplus.net.au
+DOMAIN-SUFFIX,mi9.com.au
+DOMAIN-SUFFIX,mi9cdn.com 
+DOMAIN-SUFFIX,nine.com.au
+DOMAIN-SUFFIX,nineentertainment.com.au
+DOMAIN-SUFFIX,nineentertainmentco.com.au
+DOMAIN-SUFFIX,ninemediaroom.com.au
+DOMAIN-SUFFIX,ninemsn.com.au
+DOMAIN-SUFFIX,static9.net.au
+DOMAIN-SUFFIX,yourtv.com.au
