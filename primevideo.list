@@ -26,5 +26,6 @@ DOMAIN-KEYWORD,avoddashs
 IP-CIDR,178.79.254.0/24,no-resolve
 IP-CIDR,195.219.212.0/24,no-resolve
 IP-CIDR,130.176.255.0/24,no-resolve
+IP-CIDR,139.162.243.0/24,no-resolve
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
